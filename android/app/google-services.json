@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "447444421026",
+    "project_id": "salarydayapp",
+    "storage_bucket": "salarydayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447444421026:android:3c01a33f57bdadaf510afb",
+        "android_client_info": {
+          "package_name": "com.loan.salaryday.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447444421026-e90bbejt6g7dsoii2e2el8l1n32je47e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loan.salaryday.app",
+            "certificate_hash": "b59ee2259ee96954405358648edf30c0eb6eb6e8"
+          }
+        },
+        {
+          "client_id": "447444421026-t8f3cr38q46e73cid2dhl8edod1if91o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loan.salaryday.app",
+            "certificate_hash": "a9762841a40424729e4b99998965795bc7347a3d"
+          }
+        },
+        {
+          "client_id": "447444421026-6h15ijs32v1up8g61bu2o91k72g61ojo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtTpRLJ_k9aVqh0U5PDM1DfxQh17ON1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447444421026-6h15ijs32v1up8g61bu2o91k72g61ojo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447444421026-cqs1f47vshpcemi267m25lsipo1ed5g8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.salary-day"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
